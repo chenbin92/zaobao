@@ -10,8 +10,6 @@
 
 ## 2019.08.02
 
-## 早报@2019.08.02
-
 - [发布] [Electron 6.0.0 发布了，带来 4 项重大改进](https://github.com/electron/electron/releases/tag/v6.0.0)
 - [报告] [The State of CSS 2019: Technologies 从调查报告上看 CSS 的世界还是很碎片化的](https://2019.stateofcss.com/technologies)
 - [文章] [Serverless，将给前端发展带来大变革的技术](https://mp.weixin.qq.com/s/ooX7uMFjxFfSai9URo6kYw)
