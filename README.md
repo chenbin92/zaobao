@@ -2,11 +2,11 @@
 
 ## 2019.08.05
 
-- [分享] 我在做前端构建过程中的思考 https://zhuanlan.zhihu.com/p/74381415
-- [分享] 2019 年大前端技术趋势分析 https://www.infoq.cn/article/uQjaf_dAHm6viAXsuxzI
-- [分享] GraphQL-BFF：微服务背景下的前后端数据交互方案 https://www.weibo.com/ttarticle/p/show?id=2309404398215846821987
-- [文章] npm 官宣：未来将支持 monorepo 特性，带来源码管理新姿势 https://blog.npmjs.org/post/186494959890/monorepos-and-npm
-- [文章] Node.js 12：服务端 JavaScript 的未来 https://blog.logrocket.com/node-js-12/
+- [分享] [我在做前端构建过程中的思考](https://zhuanlan.zhihu.com/p/74381415)
+- [分享] [2019 年大前端技术趋势分析](https://www.infoq.cn/article/uQjaf_dAHm6viAXsuxzI)
+- [分享] [GraphQL-BFF：微服务背景下的前后端数据交互方案](https://www.weibo.com/ttarticle/p/show?id=2309404398215846821987)
+- [文章] [npm 官宣：未来将支持 monorepo 特性，带来源码管理新姿势](https://blog.npmjs.org/post/186494959890/monorepos-and-npm)
+- [文章] [Node.js 12：服务端 JavaScript 的未来](https://blog.logrocket.com/node-js-12/)
 
 ## 2019.08.02
 
