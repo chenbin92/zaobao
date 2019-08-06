@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.06
+
+- [分享] [互联网公司的 “中台” 战略](https://mp.weixin.qq.com/s/MrCVpQPsMJcnk_LD0ghURg?from=groupmessage&isappinstalled=0)
+- [分享] [2019谷歌I/O大会上提出的JavaScript新特性](https://mp.weixin.qq.com/s/Zz7y7wQ-oLe06VoGxyNR-g)
+- [分享] [漫画讲技术/CSS系列漫画教程](https://juejin.im/post/5d4703b5f265da03df5ef698)
+- [分享] [三步调试 webpack 编译慢的原因](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
+- [工具] [分析浏览器插件对性能的影响](https://github.com/treosh/exthouse)
+
 ## 2019.08.05
 
 - [分享] [我在做前端构建过程中的思考](https://zhuanlan.zhihu.com/p/74381415)
