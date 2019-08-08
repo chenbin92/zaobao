@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.08
+
+- [技术选型背后的思考](https://mp.weixin.qq.com/s/7my0Us3wVpQTvHY6l-ZPwg)
+- [编程语言趋势预测：Rust 将成为主流，React 继续统治编程世界](https://www.infoq.cn/article/E7vufGSsFvp-WiUFPtgv)
+- [Serverless 系列文章](https://www.infoq.cn/article/s101GtcCV05_2AgKo8GD)
+- [Vue.js 在复杂信息流场景下的实践](https://mp.weixin.qq.com/s/i6m-rgb5a2NKc4EeVMtTng)
+- [有赞零售财务中台架构设计与实践](https://www.infoq.cn/article/gsrLV_4pZ6NIOAPLT5Qt)
+
 ## 2019.08.06
 
 - [分享] [互联网公司的 “中台” 战略](https://mp.weixin.qq.com/s/MrCVpQPsMJcnk_LD0ghURg?from=groupmessage&isappinstalled=0)
