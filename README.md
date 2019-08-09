@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.09
+
+- [翻译] [可靠 React 组件设计的7个准则之封装](https://juejin.im/post/5d4c329e51882511ed7c203f)
+- [分享] [「2019 JSConf.Asia - 尤雨溪」在框架设计中寻求平衡](https://juejin.im/post/5d45be46f265da03cf7a70d7)
+- [技术] [React虚拟DOM原理追踪(动画教程)](https://mp.weixin.qq.com/s/a2683YYckNrFkNmC9SbA6w)
+- [技术] [干货 | 万字长文全面解析GraphQL，携程微服务背景下的前后端数据交互方案](https://mp.weixin.qq.com/s/PovMmO6ddcpBO5A2WtY89Q)
+- [技术] [一种让小程序支持JSX语法的新思路](https://mp.weixin.qq.com/s/mN7RGJ72M9PPEIUeBdZ9Jw)
+
 ## 2019.08.08
 
 - [技术选型背后的思考](https://mp.weixin.qq.com/s/7my0Us3wVpQTvHY6l-ZPwg)
