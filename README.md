@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.12
+
+- [发布] [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
+- [趋势] [再看 2019 大前端技术趋势，Web OS 概念正落地 ](https://developer.aliyun.com/article/711504)
+- [分享] [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history)
+- [分享] [被验证过的 Code Review 最佳实践](https://mp.weixin.qq.com/s/0SmjPOmil5PitGlTu5dk7A)
+- [分享] [[译]摆脱JS框架，5年web组件开发经验总结](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=1&sn=866af57bc412fa277e28721e0d486168)
+
 ## 2019.08.09
 
 - [翻译] [可靠 React 组件设计的7个准则之封装](https://juejin.im/post/5d4c329e51882511ed7c203f)
