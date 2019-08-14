@@ -2,11 +2,11 @@
 
 ## 2019.08.14
 
-- [分享] [GMTC 北京 2019 大会 PPT 可下载了)[https://gmtc.infoq.cn/2019/beijing/schedule)
-- [分享] [如何写复杂业务代码)[https://mp.weixin.qq.com/s/pdjlf9I73sXDr30t-5KewA)
-- [技术] [ReactRouter V5 免费图文视频教程)[https://juejin.im/post/5d50dd4ff265da039a2879cd)
-- [技术] [What’s new in ES2019)[https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)
-- [产品] [字节跳动的B计划)[https://mp.weixin.qq.com/s/_J1VcpAR5tlQmS5it_sUxA)
+- [分享] [GMTC 北京 2019 大会 PPT 可下载了](https://gmtc.infoq.cn/2019/beijing/schedule)
+- [分享] [如何写复杂业务代码](https://mp.weixin.qq.com/s/pdjlf9I73sXDr30t-5KewA)
+- [技术] [ReactRouter V5 免费图文视频教程](https://juejin.im/post/5d50dd4ff265da039a2879cd)
+- [技术] [What’s new in ES2019](https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)
+- [产品] [字节跳动的B计划](https://mp.weixin.qq.com/s/_J1VcpAR5tlQmS5it_sUxA)
 
 
 ## 2019.08.13
