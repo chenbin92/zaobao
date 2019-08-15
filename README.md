@@ -2,11 +2,11 @@
 
 ## 2019.08.15
 
-- [报告] [2019 中国互联网企业百强榜单发布：“ATB”领跑，字节跳动挺进前十，小米跌至第十五)[https://www.infoq.cn/article/k3-zAJwz8S7w4JBCEwuq)
-- [分享] [Serverless 掀起新的前端技术变革)[https://github.com/nodejh/nodejh.github.io/issues/49)
-- [分享] [Serverless 架构应用开发指南)[https://serverless.ink)
-- [类库] [VvvebJs：Drag and drop website builder javascript library)[https://github.com/givanz/VvvebJs)
-- [工具] [21个React开发神器)[https://zhuanlan.zhihu.com/p/78051039)
+- [报告] [2019 中国互联网企业百强榜单发布：“ATB”领跑，字节跳动挺进前十，小米跌至第十五](https://www.infoq.cn/article/k3-zAJwz8S7w4JBCEwuq)
+- [分享] [Serverless 掀起新的前端技术变革](https://github.com/nodejh/nodejh.github.io/issues/49)
+- [分享] [Serverless 架构应用开发指南](https://serverless.ink)
+- [类库] [VvvebJs：Drag and drop website builder javascript library](https://github.com/givanz/VvvebJs)
+- [工具] [21个React开发神器](https://zhuanlan.zhihu.com/p/78051039)
 
 ## 2019.08.14
 
