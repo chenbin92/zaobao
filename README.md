@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.16
+
+- [发布] [小程序云开发即将发布实时数据推送服务](https://mp.weixin.qq.com/s/yvA12esdLrMFBGvklq305A)
+- [分享] [为什么Flutter还不是最成熟的跨端框架？](https://mp.weixin.qq.com/s/DlzY6qxFC8UnmvnJJtMXTQ)
+- [分享] [微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
+- [分享] [微信小程序支持 webP 的 WebAssembly 方案](https://www.infoq.cn/article/Mqt8oOtSwDW-Wf0iQBji)
+- [工具] [reactide：React Web 应用程序开发的第一个专用IDE](https://github.com/reactide/reactide)
+
 ## 2019.08.15
 
 - [报告] [2019 中国互联网企业百强榜单发布：“ATB”领跑，字节跳动挺进前十，小米跌至第十五](https://www.infoq.cn/article/k3-zAJwz8S7w4JBCEwuq)
