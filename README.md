@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.08.19
+
+- [发布] [React DevTools@4.x 支持 hooks 调试](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
+- [技术] [GraphQL-BFF：微服务背景下的前后端数据交互方案](https://www.infoq.cn/article/8CTAakhd*EsUtwqIcGNl)
+- [技术] [Visual Studio Code有哪些工程方面的亮点](https://zhuanlan.zhihu.com/p/35303567)
+- [技术] [阿里小程序的一云多端](https://zhuanlan.zhihu.com/p/67380673)
+- [工具] [beautiful.ai：高大上的 PPT 制作工具](https://www.beautiful.ai)
+
+
 ## 2019.08.16
 
 - [发布] [小程序云开发即将发布实时数据推送服务](https://mp.weixin.qq.com/s/yvA12esdLrMFBGvklq305A)
