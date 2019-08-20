@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.20
+
+- [分享] [GitHub免费支持CI/CD了，开发测试部署高度自动化，支持各种语言](https://mp.weixin.qq.com/s/CxblbkhfP82CzRQ_0ttlFw)
+- [分享] [探究 React Work Loop 原理](https://zhuanlan.zhihu.com/p/74344654)
+- [开源] [hiui：小米开源的一个面向中后台系统的前端组件库](https://github.com/XiaoMi/hiui)
+- [开源] [gatsby：Build blazing fast, modern apps and websites with React](https://github.com/gatsbyjs/gatsby)
+- [工具] [FreeMyDesktop：一键隐藏 Mac 桌面所有文件](http://www.valentinourbano.com/Free-my-desktop-mac-app.html)
+
 ## 2019.08.19
 
 - [发布] [React DevTools@4.x 支持 hooks 调试](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
