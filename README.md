@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.21
+
+- [分享] [the road to webpack](https://mp.weixin.qq.com/s/il-W1A2Br9cEeIC9AWlv-A)
+- [分享] [Deep In React之浅谈 React Fiber 架](https://mp.weixin.qq.com/s/26h37gBOw2gjZ4ry3AYI6A)
+- [分享] [VSCode原理解析 - 断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/)
+- [分享] [后端开发实践系列——事件驱动架构(EDA)编码实践](https://mp.weixin.qq.com/s/cAAfOQAyU4DPlPG460OKaw)
+- [开源] [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
+
 ## 2019.08.20
 
 - [分享] [GitHub免费支持CI/CD了，开发测试部署高度自动化，支持各种语言](https://mp.weixin.qq.com/s/CxblbkhfP82CzRQ_0ttlFw)
