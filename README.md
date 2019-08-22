@@ -1,5 +1,25 @@
 # zaobao
 
+## 2019.08.22
+
+- [分享] [工业聚：响应式 React Hooks 状态管理库——Bistate 介绍](https://mp.weixin.qq.com/s/9i2y_-00P-OTBJLomo_Qwg)
+- [分享] [前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
+- [分享] [SwiftUI：Better apps. Less code.](https://mp.weixin.qq.com/s/OxoBNUt4fExljj1zLQvBbA)
+- [分享] [the-art-of-command-line 命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+- [开源] [useAuth：向 React 应用添加身份验证的最简单方法](https://github.com/Swizec/useAuth)
+
+## 2019.08.22
+
+- [分享] 工业聚：响应式 React Hooks 状态管理库——Bistate 介绍 https://mp.weixin.qq.com/s/9i2y_-00P-OTBJLomo_Qwg
+- [分享] 前端物料中台建设 https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0
+- [分享] SwiftUI：Better apps. Less code. https://mp.weixin.qq.com/s/OxoBNUt4fExljj1zLQvBbA
+- [分享] the-art-of-command-line 命令行的艺术：https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+- [开源] useAuth：向 React 应用添加身份验证的最简单方法 https://github.com/Swizec/useAuth
+
+历史早报：https://github.com/chenbin92/zaobao
+
+
+
 ## 2019.08.21
 
 - [分享] [the road to webpack](https://mp.weixin.qq.com/s/il-W1A2Br9cEeIC9AWlv-A)
