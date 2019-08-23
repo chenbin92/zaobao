@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.08.23
+
+- [[译] 不要再滥用 useMemo 了！你应该重新思考 Hooks memoization](https://www.infoq.cn/article/mM5bTiwipPPNPjhjqGtr)
+- [[译] 如何使用 React hooks 获取 api 接口数据](https://juejin.im/post/5d5cbf545188253f64390569)
+- [React 应用设计之道 - curry 化妙用](https://zhuanlan.zhihu.com/p/35833143)
+- [ESLint 在中大型团队的应用实践](https://zhuanlan.zhihu.com/p/76697446)
+- [前端插拔式 SPA 应用架构实现方案](https://zhuanlan.zhihu.com/p/78428701)
+
+
 ## 2019.08.22
 
 - [分享] [工业聚：响应式 React Hooks 状态管理库——Bistate 介绍](https://mp.weixin.qq.com/s/9i2y_-00P-OTBJLomo_Qwg)
