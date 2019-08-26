@@ -1,5 +1,15 @@
 # zaobao
 
+## 2019.08.26
+
+- [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/)
+- [2019TLC 大会精彩回顾](https://juejin.im/post/5d5e37a551882513cb48fb38)
+- [最常见的 Git 问题和操作清单汇总](https://juejin.im/post/5d5d61e96fb9a06ace5254bd)
+- [应用中的撤销与重做](https://zhuanlan.zhihu.com/p/43743782)
+- [postwoman：API request builder](https://github.com/liyasthomas/postwoman)
+
+
+
 ## 2019.08.23
 
 - [[译] 不要再滥用 useMemo 了！你应该重新思考 Hooks memoization](https://www.infoq.cn/article/mM5bTiwipPPNPjhjqGtr)
