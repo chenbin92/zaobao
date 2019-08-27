@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.27
+
+- [阮一峰：任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)
+- [NoahV | 百度智能运维前端框架开源](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247485193&idx=1&sn=3989d168bfa0cebc5dc02a95c999b15c)
+- [SEIN.js 致力于打造一个专业的多平台（目前已支持Web、小程序、小游戏，未来还会更多）的3D游戏开发解决方案](http://seinjs.com/)
+- [Fusion.js, Uber’s open source universal web framework](https://github.com/fusionjs/fusionjs)
+- [Remax - 使用真正的 React 构建小程序](https://zhuanlan.zhihu.com/p/79788488)
+
 ## 2019.08.26
 
 - [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/)
