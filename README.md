@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.08.28
+
+- [飞冰团队基于 Hooks 的轻量级状态管理方案 icestore](https://zhuanlan.zhihu.com/p/80065802)
+- [Vue 最新动态：基于函数的组件 API 提议被拒绝，尤雨溪发布了重新设计的 Function-API RFC，现在被称为 Composition API](https://news.vuejs.org/issues/154)
+- [npm 发布 v6.11.0 版本，从本版本开始，npm 永远不在 root 权限文件夹之外的地方创建 root 权限文件](https://blog.npmjs.org/post/187146797665/release-6110)
+- [React 核心作者 Dan Abramov 在采访中谈论 React 的下一步计划](https://kentcdodds.com/chats-with-kent-podcast/seasons/01/episodes/a-rundown-of-whats-next-for-react-with-dan-abramov)
+- [phodal 工作、五年的自我总结，很值得读一下](https://zhuanlan.zhihu.com/p/72815103)
+
+
 ## 2019.08.27
 
 - [阮一峰：任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)
