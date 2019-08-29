@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.08.29
+
+- [Vue CLI 发布 v4.0.0-rc.0](https://github.com/vuejs/vue-cli/releases/tag/v4.0.0-rc.0)
+- [微软提出CSS Modules V1 ：通过import语句将CSS模块导入到组件中](https://mp.weixin.qq.com/s/ek8fNDG1INj7JMqCyApCqg)
+- [滴滴跨端框架 Chameleon 1.0 正式发布](https://mp.weixin.qq.com/s/kl9JwiS5_IHIZUAW-hPJBQ)
+- [NodeGUI 用于使用 JavaScript 和类 CSS 构建跨平台本机桌面应用程序](https://github.com/nodegui/nodegui)
+- [date-fns：提供了最全面的工具集，用于在浏览器和 Node.js 中操作 JavaScript 日期](https://github.com/date-fns/date-fns)
+
+
 ## 2019.08.28
 
 - [飞冰团队基于 Hooks 的轻量级状态管理方案 icestore](https://zhuanlan.zhihu.com/p/80065802)
