@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.08.30
+
+- [React 路由鉴权](https://juejin.im/post/5d6352116fb9a06ae8361932)
+- [从多线程到 Event Loop 全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5)
+- [使用 Whistle 作为你的 Web 调试工具](https://zhuanlan.zhihu.com/p/79037633)
+- [axio s如何利用 promise 无痛刷新 token](https://segmentfault.com/a/1190000020210980)
+- [Vue.js 源码解析](https://github.com/answershuto/learnVue)
+
 ## 2019.08.29
 
 - [Vue CLI 发布 v4.0.0-rc.0](https://github.com/vuejs/vue-cli/releases/tag/v4.0.0-rc.0)
