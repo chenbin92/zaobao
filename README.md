@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.02
+
+- [React Hooks 免费视频教程](https://juejin.im/post/5d6383d0f265da03b638b919)
+- [零配置的 Jest GUI 工具](https://github.com/Raathigesh/majestic/?pix=z_0_0)
+- [GGEditor： 基于 G6 和 React 的可视化图编辑器](https://github.com/alibaba/GGEditor)
+- [如何加快 Node.js 应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/)
+- [bit： Easily share code between projects with your team](https://github.com/teambit/bit)
+
 ## 2019.08.30
 
 - [React 路由鉴权](https://juejin.im/post/5d6352116fb9a06ae8361932)
