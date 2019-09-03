@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.03
+
+- [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
+- [谈谈React事件机制和未来(react-events)](https://zhuanlan.zhihu.com/p/78669634)
+- [Node.js 十年](https://zhuanlan.zhihu.com/p/70692151)
+- [重构系列，什么时候需要进行代码重构](https://juejin.im/post/5d6695f051882554e26201d2)
+- [AST 与前端工程化实战](https://zhuanlan.zhihu.com/p/77696194)
+
 ## 2019.09.02
 
 - [React Hooks 免费视频教程](https://juejin.im/post/5d6383d0f265da03b638b919)
