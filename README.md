@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.09.04
+
+- [TypeScript 3.6 发布，支持给生成器函数推断/定义出 next 函数的参数类型以及迭代出的 value 类型，修正数组的扩展运算符使其更符合标准](https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/)
+- [Chrome 意欲实现 Import Maps 提案，该提案允许控制 JavaScript 导入语句和 import() 表达式获取包的 URL](https://docs.google.com/document/d/1vFQzbmxg9ilpg8CT_P8roEYcpTfZ06Q5N4J9-ZQqqZo/edit#)
+- [ndb： GoogleChromeLabs 出品的基于 Chrome DevTools 的 Node.js 调试工具，大大提升了调试体验](https://github.com/GoogleChromeLabs/ndb)
+- [前端该如何准备数据结构和算法](https://juejin.im/post/5d5b307b5188253da24d3cd1)
+- [京东技术中台的Flutter实践之路](https://mp.weixin.qq.com/s/5cmYG_WzyQKlnPNhpsd0oQ)
+
+
 ## 2019.09.03
 
 - [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
