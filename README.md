@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019-09-06
+
+- [useEffect Hook 是如何工作的](https://github.com/qq449245884/xiaozhi/issues/107)
+- [Webpack 5 升级实验](https://zhuanlan.zhihu.com/p/81122986)
+- [前端开发已进入深水区](https://www.yuque.com/sxc/front/kvokg4)
+- [Vue3.0 - Composition API 在真实业务中的尝鲜姿势](https://juejin.im/post/5d6e4986518825267a756a8d)
+- [如何设计简洁、直观的前端架构](https://mp.weixin.qq.com/s/6Is-2aqDuCXLE1XUNpXDvQ)
+
 ## 2019.09.05
 
 - [飞冰月报 201908](https://zhuanlan.zhihu.com/p/81096582)
