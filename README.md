@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.09.10
+
+- [The Most Popular Programming Languages of 2019](https://blog.newrelic.com/technology/most-popular-programming-languages-of-2019/)
+- [react-static：A progressive static site generator for React](https://github.com/react-static/react-static/tree/master/)
+- [精读《React Hooks 最佳实践](https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8)
+- [MVVM 框架的数据状态管理的发展与探索](https://github.com/farzer/blog/issues/1)
+- [npm 沦为金钱工具背后的故事](https://www.infoq.cn/article/LH0voRP3u0mpJmIMmOPT)
+
+
 ## 2019-09-09
 
 - [Web Components最新更新，支持 React.js 和 Stencil.js 来构建 Web Components，截止目前总计 18 个库都支持构建 Web 组件](https://webcomponents.dev)
