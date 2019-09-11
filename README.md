@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.09.11
+
+- [Chrome 76 现已发布：PWA 安装，更隐秘的隐身模式和扩展跟踪](https://www.infoq.cn/article/6tEjo3hZP1lPDHSHHyQm)
+- [怎么制定前端协作规范](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
+- [简明 JavaScript 函数式编程](https://musicfe.dev/javascript-functional-programming-quickstart/)
+- [前端理解依赖注入(控制反转)](https://segmentfault.com/a/1190000020320255)
+- [民工哥的十年故事](https://segmentfault.com/a/1190000020318139)
+
+
 ## 2019.09.10
 
 - [The Most Popular Programming Languages of 2019](https://blog.newrelic.com/technology/most-popular-programming-languages-of-2019/)
@@ -9,7 +18,7 @@
 - [npm 沦为金钱工具背后的故事](https://www.infoq.cn/article/LH0voRP3u0mpJmIMmOPT)
 
 
-## 2019-09-09
+## 2019.09.09
 
 - [Web Components最新更新，支持 React.js 和 Stencil.js 来构建 Web Components，截止目前总计 18 个库都支持构建 Web 组件](https://webcomponents.dev)
 - [Babel 7.6.0 发布，该版本主要有两点特性值得关注：支持私有静态访问器；Parser 支持 V8 内在函数语法](https://babeljs.io/blog/2019/09/05/7.6.0)
@@ -17,7 +26,7 @@
 - [Chakra UI，作者 Segun Adebayo 创建了 40 多个可组合且可访问的组件，可以帮助开发者快速创建 React 应用程序和网站](https://mp.weixin.qq.com/s/gGtSc0ikq3V1k7TSgcovuw)
 - [React Rally 2019](https://www.youtube.com/playlist?list=PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA#reactrally2019)
 
-## 2019-09-06
+## 2019.09.06
 
 - [useEffect Hook 是如何工作的](https://github.com/qq449245884/xiaozhi/issues/107)
 - [Webpack 5 升级实验](https://zhuanlan.zhihu.com/p/81122986)
