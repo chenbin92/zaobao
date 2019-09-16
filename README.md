@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.16
+
+- [iceworks 问卷调查，欢迎大家填写](https://survey.taobao.com/apps/zhiliao/BG40bHNCK)
+- [【译】W3C 首次发布小程序标准化白皮书](https://www.infoq.cn/article/EYWyxH5KcN0erxYkMLvG)
+- [immer 发布 v4 版本](https://github.com/immerjs/immer/releases)
+- [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+- [通过代码实现 Array 方法来真正理解它们](https://blog.logrocket.com/understand-array-methods-by-implementing-them/)
+
 ## 2019.09.11
 
 - [Chrome 76 现已发布：PWA 安装，更隐秘的隐身模式和扩展跟踪](https://www.infoq.cn/article/6tEjo3hZP1lPDHSHHyQm)
