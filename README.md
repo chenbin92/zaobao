@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.17
+
+- [前端工程化：Docker、k8s、Serverless ](https://zhuanlan.zhihu.com/p/81735067)
+- [重读Redux源码的感悟 ](https://zhuanlan.zhihu.com/p/80686394)
+- [王者之战，下一代高性能跨平台 UI 渲染引擎 ](https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247491762&idx=2&sn=20e7430a1184f5069a01ef412dc2e7b8)
+- [[译]什么是真正的10x工程师？ ](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=1&sn=efb7e795fbefe3bf1ec5e71772736109)
+- [2019中国用户体验行业调查报告 ](https://cdc.tencent.com/2019/09/09/2019中国用户体验行业调查报告/)
+
 ## 2019.09.16
 
 - [iceworks 问卷调查，欢迎大家填写](https://survey.taobao.com/apps/zhiliao/BG40bHNCK)
