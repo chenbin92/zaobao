@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.09.18
+
+- [【干货】工业聚子在 GitHub 中国首场官方见面会上的分享《打破框架的范式之争》](https://mp.weixin.qq.com/s/0YuYBqD2qWf_EgKMbow1dw)
+- [浅入 React16/Fiber Part4 Concurrent Mode](https://zhuanlan.zhihu.com/p/82563945)
+- [精读《React Hooks 最佳实践》](https://zhuanlan.zhihu.com/p/81752821)
+- [2019 年谷歌开发者大会参与感](https://juejin.im/post/5d80a9e751882507ba2267bf)
+- [Web验证的过去现在与未来](https://juejin.im/post/5d80122f51882571ed61f591)
+
+
 ## 2019.09.17
 
 - [前端工程化：Docker、k8s、Serverless ](https://zhuanlan.zhihu.com/p/81735067)
