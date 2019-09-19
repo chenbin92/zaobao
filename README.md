@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.19
+
+- [Remax - 使用真正的React 构建小程序](https://zhuanlan.zhihu.com/p/79788488)
+- [[译] JavaScript 的未来是模块化?](https://www.infoq.cn/article/vRf3vuKkH67w2zQlF0jB)
+- [[译]摆脱JS框架，5年web组件开发经验总结](https://mp.weixin.qq.com/s/YiCuPLbhaRVOmU54A7_r4g)
+- [Visual Studio Code有哪些工程方面的亮点](https://zhuanlan.zhihu.com/vs-code)
+- [软件架构指南](https://martinfowler.com/architecture/)
+
 ## 2019.09.18
 
 - [【干货】工业聚子在 GitHub 中国首场官方见面会上的分享《打破框架的范式之争》](https://mp.weixin.qq.com/s/0YuYBqD2qWf_EgKMbow1dw)
