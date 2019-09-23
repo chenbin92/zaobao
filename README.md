@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.09.23
+
+- [前端微服务在字节跳动的落地之路](https://www.infoq.cn/article/yuWiaiui6C18Od5uZiuF)
+- [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
+- [React遭遇V8性能崩溃的故事](https://mp.weixin.qq.com/s/MB6ZtCG231sp84Q7XE49Xg)
+- [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
+- [QCon 前端参会分享](https://www.infoq.cn/article/tDrRy7NSmho4FzaYP0AI)
+
+
 ## 2019.09.19
 
 - [Remax - 使用真正的React 构建小程序](https://zhuanlan.zhihu.com/p/79788488)
