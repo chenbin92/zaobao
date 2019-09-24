@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.24
+
+- [微前端说明书](https://zhuanlan.zhihu.com/p/82051427)
+- [漫画：什么是中台](https://mp.weixin.qq.com/s/rF7_xJBq4NJP6CmkW3HPpQ)
+- [如何加快 Node.js 应用的启动速度，实现分钟到毫秒的转化](https://mp.weixin.qq.com/s/tbK63erZgMy5-RbhbAWgrw)
+- [cURL 项目作者 Stenberg：开源项目的维护者是否应该无偿提供任何支持](https://www.infoq.cn/article/FUzeKSre1mv9iAJ4FRTR)
+- [通过命令行观看 NBA](https://github.com/xxhomey19/nba-go)
+
 ## 2019.09.23
 
 - [前端微服务在字节跳动的落地之路](https://www.infoq.cn/article/yuWiaiui6C18Od5uZiuF)
