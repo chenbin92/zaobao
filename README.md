@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.25
+
+- [react-router 发布 v5.1.0，提供了 hooks 接口，为升 6 做准备](https://github.com/ReactTraining/react-router/releases/tag/v5.1.0)
+- [React 中的状态自动保存KeepAlive](https://zhuanlan.zhihu.com/p/82700889)
+- [前端工程实践之可视化搭建系统](https://juejin.im/post/5d8774bff265da03ae78b2a1)
+- [开源一文多发平台 ArtiPub，让文章随处可阅](https://www.v2ex.com/t/602779)
+- [electron/fiddle： The easiest way to get started with Electron](https://github.com/electron/fiddle)
+
 ## 2019.09.24
 
 - [微前端说明书](https://zhuanlan.zhihu.com/p/82051427)
