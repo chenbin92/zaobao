@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.27
+
+- [深度解读当代前端架构演进与趋势，上、下两篇](https://www.infoq.cn/article/AJ0S3IDEHyusNms0bTf1)
+- [Node.js 基础服务 - 摸爬滚打才不负功名尘土](https://zhuanlan.zhihu.com/p/84176287)
+- [京东：将Flutter扩展到微信小程序端的探索](https://mp.weixin.qq.com/s/Unox7RPZQsyxSiH04DiGtw)
+- [JavaScript 实用的 Optional Chaining 新特性](https://dev.to/lampewebdev/the-most-outstanding-new-feature-in-javascript-you-need-to-know-about-optional-chaining-2pg2)
+- [关于渐进式Web应用，你需要了解的所有事](https://mp.weixin.qq.com/s/Z7SYfxzqPI11jYtV-VmGEg)
+
 ## 2019.09.25
 
 - [react-router 发布 v5.1.0，提供了 hooks 接口，为升 6 做准备](https://github.com/ReactTraining/react-router/releases/tag/v5.1.0)
