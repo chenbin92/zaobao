@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.09.30
+
+- [W3C 发布 2019 年 9 月战略要点](https://www.w3.org/2019/09/w3c-highlights/)
+- [微软推出 Python 免费在线视频教程，登上 GitHub 热榜第一](https://github.com/microsoft/c9-python-getting-started)
+- [V8 发布 v7.8 版本，在 Chrome 78 中会在预加载阶段扫面 HTML 查找需要加载的脚本，并在加载完成前开始编译，这意味着今后无需再将 <script>写在 <body>结尾处了](https://v8.dev/blog/v8-release-78)
+- [HTTP 3 对 Web 开发领域做出一些重大改进，主要以 UDP 取代 TCP，用于传输层](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+- [精读《robot 源码 - 有限状态机》](https://zhuanlan.zhihu.com/p/84644681)
+
 ## 2019.09.27
 
 - [深度解读当代前端架构演进与趋势，上、下两篇](https://www.infoq.cn/article/AJ0S3IDEHyusNms0bTf1)
