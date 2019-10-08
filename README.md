@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.08
+
+- [尤雨溪公布了 Vue 3 源代码](https://github.com/vuejs/vue-next)
+- [Chrome：不再支持混用 http/https](https://security.googleblog.com/2019/10/no-more-mixed-messages-about-https_3.html)
+- [年度最具影响力开源 JavaScript 软件库 Immer 发布第四版](https://www.infoq.cn/article/113qcUPmJvvBUJq4dTWI)
+- [为什么渐进式 Web 应用程序（PWA）是移动 Web 的未来](https://ymedialabs.com/progressive-web-apps)
+- [Git paging：一组 Bash 函数，可以在命令行迅速查看 Git 仓库某个版本的信息](https://gist.github.com/hutusi/e4f32e2bcd8d53ec86de8254ab0d5127)
+
 ## 2019.09.30
 
 - [W3C 发布 2019 年 9 月战略要点](https://www.w3.org/2019/09/w3c-highlights/)
