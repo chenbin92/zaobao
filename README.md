@@ -1,5 +1,21 @@
 # zaobao
 
+## 2019.10.10
+
+- [官宣D2来了](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&amp;mid=2247483679&amp;idx=1&amp;sn=ddf6006d0374fb6ab14ff7cbcad3dbbe&amp;chksm=cf5b1e83f82c979530d822fd06dc54ab864bd8ef7e0acf59dc4d0f60811621b9b39c97de7157#rd)
+- [Vue3响应式系统源码解析(上)](https://juejin.im/post/5d9c9a135188252e097569bd)
+- [一张图理清 Vue 3.0 的响应式系统](https://jrainlau.github.io/#/article?number=20&title=一张图理清%20Vue%203.0%20的响应式系统)
+- [精读《用 Babel 创造自定义 JS 语法》](https://juejin.im/post/5d9be731f265da5bbc3e879b)
+- [浏览器的一些“滚动”行为鉴赏](https://juejin.im/post/5d75adfbe51d4561e84fcc9c)
+
+## 2019.10.09
+
+- [react 发布 16.10.0 版本](https://github.com/facebook/react/blob/master/CHANGELOG.md#16100-september-27-2019)
+- [create-react-app 发布 3.2.0 版本](https://github.com/facebook/create-react-app/releases/tag/v3.2.0)
+- [Vue 3.0 公开代码之后……](https://mp.weixin.qq.com/s/_9XaMyAv0NjJRvwKEEleuw)
+- [我用React和Vue构建了同款应用，来看看哪里不一样](https://mp.weixin.qq.com/s/BnstpzWPtcErWzn-LjPL4A)
+- [人到中年的程序员，请提前准备好Plan B](https://mp.weixin.qq.com/s/gZUf9nDgsMQIxfwzcvGoQg)
+
 ## 2019.10.08
 
 - [尤雨溪公布了 Vue 3 源代码](https://github.com/vuejs/vue-next)
