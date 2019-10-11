@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.10.11
+
+- [Vue3响应式系统源码解析-Ref篇 ](https://zhuanlan.zhihu.com/p/85978064)
+- [HTTP/3 的过去、现在和未来 ](https://www.infoq.cn/article/x80uOvcRyxVYw3KVusUm)
+- [深度解读当代前端架构进化史，下一个趋势在哪？ ](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f)
+- [VS Code 1.39 发布！Web 版 VS Code 是否离我们越来越近了？](https://zhuanlan.zhihu.com/p/85662322)
+- [Discovery.js：改变阅读 json 的方式 ](https://github.com/discoveryjs/discovery)
+
+
 ## 2019.10.10
 
 - [官宣D2来了](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&amp;mid=2247483679&amp;idx=1&amp;sn=ddf6006d0374fb6ab14ff7cbcad3dbbe&amp;chksm=cf5b1e83f82c979530d822fd06dc54ab864bd8ef7e0acf59dc4d0f60811621b9b39c97de7157#rd)
