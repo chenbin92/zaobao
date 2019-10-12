@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.12
+
+- [飞冰月报 201909](https://zhuanlan.zhihu.com/p/85999652)
+- [webpack beta 版终于来了， 发布 v5.0.0-beta.0](https://github.com/webpack/webpack/issues/9802)
+- [想创建应用程序，只用React Hooks就够了](https://mp.weixin.qq.com/s/c3ZEJa_NLpqUW16zkWZucw)
+- [SSR 结合阿里云 Serverless FC 实践](https://zhuanlan.zhihu.com/p/86131581)
+- [Flutter for Web](https://mp.weixin.qq.com/s/krR2XsDXvakMlZWbV-VvSg)
+
 ## 2019.10.11
 
 - [Vue3响应式系统源码解析-Ref篇 ](https://zhuanlan.zhihu.com/p/85978064)
