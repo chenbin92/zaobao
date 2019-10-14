@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.14
+
+- [NPM 发布 6.12.0](https://github.com/npm/cli/releases)
+- [漫谈 Typescript 研发体系建设](https://zhuanlan.zhihu.com/p/86276764)
+- [未来属于声明式编程](http://djyde.github.io/blog/declarative-programming-is-the-future/)
+- [Machine Learning Yearning 中文版 - 《机器学习训练秘籍》](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
+- [高效工作](https://zhuanlan.zhihu.com/p/85428323)
+
 ## 2019.10.12
 
 - [飞冰月报 201909](https://zhuanlan.zhihu.com/p/85999652)
