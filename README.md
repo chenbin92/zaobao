@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.16
+
+- [漫谈前端体系建设](https://zhuanlan.zhihu.com/p/28299873)
+- [小程序底层实现原理及一些思考](https://zhuanlan.zhihu.com/p/81775922)
+- [把Flutter扩展到微信小程序端的探索](https://zhuanlan.zhihu.com/p/85765631)
+- [精读《用 css grid 重新思考布局》](https://zhuanlan.zhihu.com/p/86519309)
+- [浅谈 HTTP/2 Server Push](https://zhuanlan.zhihu.com/p/26757514)
+
 ## 2019.10.14
 
 - [NPM 发布 6.12.0](https://github.com/npm/cli/releases)
