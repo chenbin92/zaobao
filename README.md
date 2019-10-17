@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.17
+
+- [vue-cli 发布 v4.0.0](https://github.com/vuejs/vue-cli/releases/tag/v4.0.0)
+- [[译] webpack 5 之持久化缓存指南](https://mp.weixin.qq.com/s?__biz=MzIzOTkwMjM0OQ==&amp;mid=2247484139&amp;idx=1&amp;sn=c8cc5c07132114ecefb2d30896c8c44a&amp;)
+- [组件复用一小步 轻松实现跨项目开发提效](https://www.infoq.cn/article/SShfOu7LauoNNdHTjgSp)
+- [Slack的Service Worker实践：更快的启动速度与离线支持](https://mp.weixin.qq.com/s/NPy5HLp1uQUeiHvD-zAX6Q)
+- [腾讯专家实战解读 Flutter for Web](https://mp.weixin.qq.com/s/-aOKZmm27MXUO67f4EVc_A)
+
 ## 2019.10.16
 
 - [漫谈前端体系建设](https://zhuanlan.zhihu.com/p/28299873)
