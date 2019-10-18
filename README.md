@@ -4,7 +4,7 @@
 
 - [React Hook Form](https://react-hook-form.com/)
 - [Material Design 设计奖揭晓，Google 选出了 4 款最佳应用](https://sspai.com/post/56961)
-- [[译]]你真的了解 React 吗？这里有 50 个 React 面试问题 ](https://www.infoq.cn/article/VuXPJws1qlIw6brU0XvA)
+- [[译]你真的了解 React 吗？这里有 50 个 React 面试问题](https://www.infoq.cn/article/VuXPJws1qlIw6brU0XvA)
 - [大前端时代，浅谈 JavaScript 开发重型跨平台应用以及架构](https://www.infoq.cn/article/DgXjSezFsBPqWZIyTW9O)
 - [Aliyun Serverless VSCode Extension](https://github.com/alibaba/serverless-vscode)
 
