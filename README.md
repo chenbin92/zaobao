@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.10.21
+
+- [Node.js 12.12 发布](https://github.com/nodejs/node/releases)
+- [前端代码质量-圈复杂度原理和实践](https://juejin.im/post/5da34216e51d4578502c24c5)
+- [深入浅出 Babel 上篇：架构和原理 + 实战](https://juejin.im/post/5d94bfbf5188256db95589be)
+- [GitSheet：常用 Git 命令速查表，可一键复制到剪贴板](https://gitsheet.wtf/)
+- [Typeofnan javascript quizzes： 超过 50 道 JavaScript 趣味测试题，附有详尽的解释](https://quiz.typeofnan.dev)
+
+
 ## 2019.10.18
 
 - [React Hook Form](https://react-hook-form.com/)
