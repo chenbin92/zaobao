@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.22
+
+- [webpack 5 之持久化缓存指南](https://mp.weixin.qq.com/s/oB5eYax_NndcM5IinPgzNQ)
+- [Git 中 submodule 的使用](https://zhuanlan.zhihu.com/p/87053283)
+- [这可能是最通俗的 React Fiber 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85)
+- [JavaScript 工具函数大全](https://juejin.im/post/5da1a04ae51d45783d6122bf)
+- [基于阿里云的 Node.js 稳定性实践](https://zhuanlan.zhihu.com/p/87692140)
+
 ## 2019.10.21
 
 - [Node.js 12.12 发布](https://github.com/nodejs/node/releases)
