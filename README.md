@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.23
+
+- [react 发布 16.11.0](https://github.com/facebook/react/releases/)
+- [Schedule / React Conf 2019](https://conf.reactjs.org/schedule.html)
+- [这可能是最通俗的 React Fiber 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85)
+- [前端框架用vue还是react？清晰对比两者差异](https://juejin.im/post/5dad09be518825393e52d1bd)
+- [fast-diff：A fast Javascript string diff](https://github.com/jhchen/fast-diff)
+
 ## 2019.10.22
 
 - [webpack 5 之持久化缓存指南](https://mp.weixin.qq.com/s/oB5eYax_NndcM5IinPgzNQ)
