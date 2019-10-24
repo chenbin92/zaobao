@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.10.24
+
+- [Node.js 13.0 正式发布](https://mp.weixin.qq.com/s/pXF6La-hkY5phill3nE4fQ)
+- [阿里开源十年激荡史](https://mp.weixin.qq.com/s/pJFt2ivGtP-vBpTFOGCbyw)
+- [【译】一文洞察 Chrome DevTools 近半年新增了哪些功能](https://www.zoo.team/article/chrome-devtools)
+- [配置好 AdGuard，给你更全面的网络隐私保护](https://sspai.com/post/57021)
+- [Server-X：一款可能提升你十倍工作效率的工具](https://juejin.im/post/5dad208ef265da5b7d692340)
+
+
 ## 2019.10.23
 
 - [react 发布 16.11.0](https://github.com/facebook/react/releases/)
