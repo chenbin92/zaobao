@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.28
+
+- [Electron 7.0.0 发布](https://electronjs.org/blog/electron-7-0)
+- [Preparing for the Future with React Prereleases](https://reactjs.org/blog/2019/10/22/react-release-channels.html)
+- [收益 or 挑战？Serverless 究竟给前端带来了什么](https://zhuanlan.zhihu.com/p/88258722)
+- [Microsoft 是如何进行 code review 的？](https://hackernoon.com/how-code-reviews-work-at-microsoft-qe1t327y)
+- [精读《Nuxtjs](https://juejin.im/post/5db63ca1f265da4d226e2476)
+
 ## 2019.10.24
 
 - [Node.js 13.0 正式发布](https://mp.weixin.qq.com/s/pXF6La-hkY5phill3nE4fQ)
