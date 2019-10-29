@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.10.29
+
+- [面向大型工作台的微前端解决方案 icestark](https://zhuanlan.zhihu.com/p/88449415)
+- [Chrome 78 正式发布，新支持 Houdini 的 CSS 属性与 CSS 值注册 API registerProperty、本地文件系统 API 、新的 Origin Trial、SMS Receiver API 等](https://developers.google.com/web/updates/2019/10/nic78)
+- [TypeScript 3.7 RC 发布，备受瞩目的 Optional Chaining 来了](https://www.infoq.cn/article/d95pGayR9s4eucUGKSFP)
+- [解密国内BAT等大厂前端技术体系-百度篇](https://mp.weixin.qq.com/s?__biz=MzI5MjYyODYyNQ==&mid=2247483972&idx=1&sn=717de03ea3e9c95fecaac91f7f9e5795)
+- [为了 Node.js 开发的未来发展，OpenJS 基金会推出两个 Node.js 证书，OpenJS Node.js Application Developer (JSNAD) 和 OpenJS Node.js Services Developer (JSNSD))](https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/)
+
 ## 2019.10.28
 
 - [Electron 7.0.0 发布](https://electronjs.org/blog/electron-7-0)
