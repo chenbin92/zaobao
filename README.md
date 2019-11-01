@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.01
+
+- [SWR：最具潜力的 React Hooks 数据请求库](https://zhuanlan.zhihu.com/p/89570321)
+- [Vue 3中那些激动人心的新功能](https://mp.weixin.qq.com/s/SWIVoLfPjUe8BM6Bld5S9g)
+- [Serverless，将给前端发展带来大变革的技术？（上、下）两篇](https://www.infoq.cn/article/zEWO83icwE80xXHcPWOq)
+- [写给前端工程师的 Flutter 教程（上、下）两篇](https://www.infoq.cn/article/4LCAhRL2TEvUdE8zpHaa)
+- [QQ 音乐商业化 Web 团队：前端工程化实践总结（总三篇）](https://www.infoq.cn/article/2gQwRdKPMHjC96jJoVDG)
+
 ## 2019.10.29
 
 - [面向大型工作台的微前端解决方案 icestark](https://zhuanlan.zhihu.com/p/88449415)
