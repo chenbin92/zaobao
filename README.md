@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.08
+
+- [基于 Fusion 的动态多主题方案](https://zhuanlan.zhihu.com/p/89523973)
+- [SWR：最具潜力的 React Hooks 数据请求库](https://zhuanlan.zhihu.com/p/89570321)
+- [对 React conf 2019 的一些 talk 的概览](https://zhuanlan.zhihu.com/p/89833301)
+- [现代 Web 开发的现状与未来（JSDC 2019 演讲全文）](https://zhuanlan.zhihu.com/p/88616149)
+- [腾讯原生小程序框架 OMIX 2.0 发布](https://github.com/Tencent/omi/tree/master/packages/omix)
+
 ## 2019.11.01
 
 - [SWR：最具潜力的 React Hooks 数据请求库](https://zhuanlan.zhihu.com/p/89570321)
