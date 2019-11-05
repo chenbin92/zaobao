@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.11.05
+
+- [重磅！微软发布 Visual Studio Online：Web 版 VS Code + 云开发环境](https://mp.weixin.qq.com/s/6tAt3tr5QYKdE3mbqH74Kw)
+- [官宣：腾讯WeTest明星工具-PerfDog面向全球发布！](https://mp.weixin.qq.com/s/0BtPeW1TtbTr1kYPzqRx7A)
+- [玉伯：我的前端成长之路](https://www.yuque.com/yubo/morning/grow-up-at-alibaba)
+- [精读《React Conf 2019》](https://mp.weixin.qq.com/s/x4TLc1JumBKfHS-kvdMBcA)
+- [将 React 渲染到嵌入式液晶屏](https://zhuanlan.zhihu.com/p/89574235)
+
+
 ## 2019.11.04
 
 - [基于 Fusion 的动态多主题方案](https://zhuanlan.zhihu.com/p/89523973)
