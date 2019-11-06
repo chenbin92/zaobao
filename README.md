@@ -1,5 +1,14 @@
 # zaobao
 
+## 早报@2019.11.06
+
+- [npm 发布 v6.13.0，新增 fund 命令](https://github.com/npm/cli/releases/tag/v6.13.0)
+- [immer 发布 v5.0.0，支持 Map 和 Set](https://github.com/immerjs/immer/releases/tag/v5.0.0)
+- [use-codemirror：codemirror 的 hook，支持 SSR，支持按需加载，支持 TypeScript](https://github.com/jamesknelson/use-codemirror)
+- [svg-autocrop：一个 NPM 模块，用于自动裁剪和缩小 SVG](https://github.com/cncf/svg-autocrop)
+- [React Hooks 详解（近 1w 字）+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
+
+
 ## 2019.11.05
 
 - [重磅！微软发布 Visual Studio Online：Web 版 VS Code + 云开发环境](https://mp.weixin.qq.com/s/6tAt3tr5QYKdE3mbqH74Kw)
