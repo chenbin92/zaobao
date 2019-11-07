@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.07
+
+- [飞冰（ICE）十月份月报](https://zhuanlan.zhihu.com/p/90563023)
+- [React Concurrent 模式](https://juejin.im/post/5dbee8e7e51d4558040f0830)
+- [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85)
+- [小程序工程化探索](https://mp.weixin.qq.com/s/_NSJTQ-4-8gTnwTVK-tn0A)
+- [2019腾讯00后研究报告](https://cdc.tencent.com/2019/11/01/2019腾讯00后研究报告/)
+
 ## 早报@2019.11.06
 
 - [npm 发布 v6.13.0，新增 fund 命令](https://github.com/npm/cli/releases/tag/v6.13.0)
