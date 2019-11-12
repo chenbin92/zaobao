@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.12
+
+- [在 React 中获取异步数据的最好方法](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
+- [GitHub 年度报告，中国开源贡献排名第二](https://octoverse.github.com/)
+- [解密国内BAT等大厂前端技术体系-腾讯篇](https://mp.weixin.qq.com/s/hisqcnv8g5XMOF6bzFV7pw)
+- [移动端体验优化经验总结与实践](https://github.com/ProtoTeam/blog/blob/master/201911/1.md)
+- [W3C 公布网站重新设计征求意见书](https://www.w3.org/blog/news/archives/8030)
+
 ## 2019.11.07
 
 - [飞冰（ICE）十月份月报](https://zhuanlan.zhihu.com/p/90563023)
