@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.11.13
+
+- [开源安全平台 SNYK 发布了 JavaScript 2019 年度安全性报告](https://snyk.io/wp-content/uploads/snyk-javascript_report_2019.pdf)
+- [React 已上线并发模式的文档，目前此模式还没有在稳定版本支持](https://reactjs.org/docs/concurrent-mode-intro.html)
+- [19 个来自 2019 React Conf 的总结](https://juejin.im/post/5dca1387e51d453df00ebd9d)
+- [Web 体验优化中和图有关的那些事](https://juejin.im/post/5dc7fb87e51d454b4213c934)
+- [madge：一个对 Node.js 模块依赖进行分析的工具库，可以找出循环依赖并利用 graphviz 生成模块依赖图](https://github.com/pahen/madge)
+
+
 ## 2019.11.12
 
 - [在 React 中获取异步数据的最好方法](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
