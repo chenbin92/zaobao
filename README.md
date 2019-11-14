@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.14
+
+- [谷歌推出新提案 Portals：Web 上的无缝跳转体验](https://www.infoq.cn/article/DXYNLbY6EBLkybRRYaBx)
+- [横跨全平台！微软 Chromium 版 Edge 浏览器正式版将于 2020 年1月15日发布](https://zhuanlan.zhihu.com/p/90518981)
+- [CSS的未来已来](https://juejin.im/post/5dcb9c126fb9a04aba52bdf4)
+- [代理工具——Fastest免代理访问测试环境方案](https://juejin.im/post/5dca4d006fb9a04a720a2ac4)
+- [2019 年 Chrome 开发者峰会亮点：让所有用户告别加载延迟](https://www.infoq.cn/article/xBGqtxJMvcSlIwByQdp2)
+
 ## 2019.11.13
 
 - [开源安全平台 SNYK 发布了 JavaScript 2019 年度安全性报告](https://snyk.io/wp-content/uploads/snyk-javascript_report_2019.pdf)
