@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.18
+
+- [Display Locking：W3C 更快的 Web 渲染提案](https://github.com/WICG/display-locking/blob/master/README.md)
+- [GitHub 启动代码永久保存计划，至少一千年](https://www.infoq.cn/article/KpHDtgQEljoOJ5pHev7i)
+- [NGW，前端新技术赛场：Serverless SSR 技术内幕](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247489610&idx=1&sn=b7f8c71744fbf2844fe494841362e4d0)
+- [[译] 微前端架构：如何由内而外取代单体架构](https://www.infoq.cn/article/sINZ0kRVMAaBpjvBeBvv)
+- [[译] 谷歌推出新提案 Portals：Web 上的无缝跳转体验](https://www.infoq.cn/article/DXYNLbY6EBLkybRRYaBx)
+
 ## 2019.11.14
 
 - [谷歌推出新提案 Portals：Web 上的无缝跳转体验](https://www.infoq.cn/article/DXYNLbY6EBLkybRRYaBx)
