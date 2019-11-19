@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.11.19
+
+- [2019 TWeb 腾讯前端技术大会精彩回顾](https://juejin.im/post/5dd20202e51d453ff47f9c81)
+- [精读React Conf 2019 - Day2](https://zhuanlan.zhihu.com/p/92309268)
+- [谷歌新提案：Web Bundles API 可在脱机状态实现内容分发](https://mp.weixin.qq.com/s/__iKteDq9z8AMXsnr57N3g)
+- [React 开发必须知道的 34 个技巧](https://juejin.im/post/5dcb5a80e51d4520db19b906)
+- [从 jQuery 到 Serverless](https://zhuanlan.zhihu.com/p/91212924)
+
+
 ## 2019.11.18
 
 - [Display Locking：W3C 更快的 Web 渲染提案](https://github.com/WICG/display-locking/blob/master/README.md)
