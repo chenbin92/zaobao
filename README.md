@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.20
+
+- [2019 JSConf.Asia-尤雨溪」在框架设计中寻求平衡](https://zhuanlan.zhihu.com/p/76622839)
+- [2019 年前端工具调查结果](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results)
+- [Build Your Own React](https://pomb.us/build-your-own-react/)
+- [如何对 React 函数式组件进行优化](https://juejin.im/post/5dd337985188252a1873730f)
+- [27 个提升开发幸福度的 VsCode 插件](https://juejin.im/post/5dd480c66fb9a01ff0135466)
+
 ## 2019.11.19
 
 - [2019 TWeb 腾讯前端技术大会精彩回顾](https://juejin.im/post/5dd20202e51d453ff47f9c81)
