@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.22
+
+- [【译】2020 年 7 个软件开发趋势](https://juejin.im/post/5dce29e151882510c20bc106)
+- [【译】苹果在 iOS 中添加原生 W3C WebDriver 支持](https://www.infoq.cn/article/pLKALibND5OlheOqCVxh)
+- [前端代码质量-圈复杂度原理和实践](https://mp.weixin.qq.com/s/qnJMGAUIFc8CDk8OAYOJeQ)
+- [多端统一开发解决方案Taro的架构设计](https://mp.weixin.qq.com/s/COBDjTXbOpFxvNvd-ZzSSg)
+- [阿里11年，从应届生到双11前端PM](https://mp.weixin.qq.com/s/rKySWnRpoQLSw8VM9895EA)
+
 ## 2019.11.20
 
 - [2019 JSConf.Asia-尤雨溪」在框架设计中寻求平衡](https://zhuanlan.zhihu.com/p/76622839)
