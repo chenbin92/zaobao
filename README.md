@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.11.25
+
+- [ESLint v6.7.0 发布，支持 Eslint v6.0](https://github.com/eslint/eslint/releases)
+- [Chrome 可试用本机文件系统 API](https://labs.vaadin.com/native-fs/)
+- [Google 计划在 Chrome 浏览器中为缓慢的网站赋予新的“徽章”](https://developer.chrome.com/devsummit/)
+- [双 11 模块 79.34% 的前端代码是怎样智能生成的？](https://www.infoq.cn/article/hdsuD4vwOOCySFiBt2FK)
+- [Electron IM 应用开发实践](https://juejin.im/post/5dd27fabf265da0bad797dcd)
+
 ## 2019.11.22
 
 - [【译】2020 年 7 个软件开发趋势](https://juejin.im/post/5dce29e151882510c20bc106)
