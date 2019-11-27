@@ -1,5 +1,23 @@
 # zaobao
 
+## 2019.11.27
+
+- [深入浅出 SWR 原理](https://zhuanlan.zhihu.com/p/93824106)
+- [Vue 3 Composition API 实战前瞻](https://www.infoq.cn/article/RZvgaitrsG20Xk7qqtWF)
+- [jQuery 模块终于从 AMD 迁移到了 ES 模块](https://github.com/jquery/jquery/commit/d0ce00cdfa680f1f0c38460bc51ea14079ae8b07)
+- [Edge Chromium 在 beta 测试几个月后，宣布于明年 1 月 15 日正式上线，以及新的 logo](https://www.theverge.com/2019/11/4/20942038/microsoft-edge-chromium-release-date-new-logo-features)
+- [vscode 插件，CSS Peek 能让你在 HTML 文件中一键跳转到 CSS 定义](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
+## 2019.11.26
+
+- [Node新版本13.2.0正式支持ES Modules特性](https://juejin.im/post/5ddb2e2d6fb9a07ab12c7546)
+- [MVVM 双向绑定全量版整理](https://www.infoq.cn/article/sGeiocEofyryEbrkYH30)
+- [如何对 React 函数式组件进行优化](http://www.taoweng.site/index.php/archives/280/)
+- [精读《unstated 与 unstated-next 源码》](https://github.com/dt-fe/weekly/blob/v2/130.%E7%B2%BE%E8%AF%BB%E3%80%8Aunstated%20%E4%B8%8E%20unstated-next%20%E6%BA%90%E7%A0%81%E3%80%8B.md)
+- [把自己当成一家企业，思考你该如何工作](https://mp.weixin.qq.com/s?__biz=MzA5MTAxNDg0OQ==&mid=2247484322&idx=1&sn=22593db2bee1423f2bdc88526a4be7e4)
+
+
+
 ## 2019.11.25
 
 - [ESLint v6.7.0 发布，支持 Eslint v6.0](https://github.com/eslint/eslint/releases)
