@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.12.02
+
+- [Mozilla 为开发者推出新的网页调试工具 Firefox Replay](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/WebReplay)
+- [2019 年 JavaScript 状态调查已开放](https://stateofjs.com/)
+- [GSAP 3.0 现已发布：JavaScript 动画的”瑞士军刀“](https://greensock.com/3-release-notes)
+- [现代 JavaScript 应用程序的 CSS 架构](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications)
+- [在 iPad 上开发 Web 是怎样的体验？](https://notebook.lachlanjc.me/2019-11-05_real_web_development_on_ipad/)
+
 ## 2019.11.27
 
 - [深入浅出 SWR 原理](https://zhuanlan.zhihu.com/p/93824106)
