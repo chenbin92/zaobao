@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.12.03
+
+- [Rax 1.0 版本更新与特性介绍](https://zhuanlan.zhihu.com/p/84443743)
+- [[译]React过誉了吗？](https://mp.weixin.qq.com/s/15b8jzfeakj5PUAkSBpoaw)
+- [拥抱云时代的前端开发架构——微前端](https://mp.weixin.qq.com/s/rYNsKPhw2zR84-4K62gliw)
+- [Node.js在携程的落地和最佳实践](https://mp.weixin.qq.com/s/ndPlZJWM9pxusGMY8C0eyA)
+- [Faster JavaScript Apps with JSON.parse()](https://www.bram.us/2019/11/25/faster-javascript-apps-with-json-parse/)
+
 ## 2019.12.02
 
 - [Mozilla 为开发者推出新的网页调试工具 Firefox Replay](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/WebReplay)
