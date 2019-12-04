@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.12.04
+
+- [Rax 1.1.0 大事件播报](https://zhuanlan.zhihu.com/p/94958392)
+- [Redux 官方发布样式指导，包含推荐的模式、最佳实践和建议](https://redux.js.org/style-guide/style-guide)
+- [Firefox 用户界面完成迁移到 Web Components](https://briangrinstead.com/blog/firefox-webcomponents/)
+- [使用 Hooks 优化 React 组件](https://zhuanlan.zhihu.com/p/93912040)
+- [progress-estimator：一个通过估算 Promise 完成时间实现进度条的库，这个库会跟踪过去的时间，以便实现更精准的进度计算](https://github.com/bvaughn/progress-estimator)
+
+
 ## 2019.12.03
 
 - [Rax 1.0 版本更新与特性介绍](https://zhuanlan.zhihu.com/p/84443743)
