@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.12.05
+
+- [ICE 在微前端的探索](https://zhuanlan.zhihu.com/p/94847293)
+- [React Hooks 你真的用对了吗](https://zhuanlan.zhihu.com/p/85969406)
+- [不容错过的 Babel7 知识](https://juejin.im/post/5ddff3abe51d4502d56bd143)
+- [轻松理解webpack热更新原理](https://juejin.im/post/5de0cfe46fb9a071665d3df0)
+- [推荐一些 Mac 上比较好用的软件](https://mp.weixin.qq.com/s/t0v9dJ5NPVJ7StTG8kX-Vg)
+
 ## 2019.12.04
 
 - [Rax 1.1.0 大事件播报](https://zhuanlan.zhihu.com/p/94958392)
