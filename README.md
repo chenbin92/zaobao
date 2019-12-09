@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.12.09
+
+- [ ECMAScript 可选链接进入 Stage 4](https://www.reddit.com/r/javascript/comments/e65p22/optional_chaining_just_achieved_stage_4_at_tc39/)
+- [Firefox 71 发布，带来新的开发者工具](https://hacks.mozilla.org/2019/12/firefox-71-a-year-end-arrival/)
+- [【译】写给前端的正则表达式入门](https://segmentfault.com/a/1190000021145901)
+- [jstates： 一个简单的小型 JavaScript 状态库](https://github.com/orYoffe/jstates)
+- [WhoCanUse： 一种可引起视障群体对色彩对比度关注的工具](https://whocanuse.com/)
+
 ## 2019.12.05
 
 - [ICE 在微前端的探索](https://zhuanlan.zhihu.com/p/94847293)
