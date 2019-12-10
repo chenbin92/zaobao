@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019-12-10
+
+- [What's New for Node.js in 2020](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)
+- [WebAssembly is Now a W3C Recommendation](https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en)
+- [前端技术雷达最新动向：微前端可采纳，10倍工程师要暂缓](https://mp.weixin.qq.com/s/emSxjv4opqL0_IqeAr7fZg)
+- [深入浅出Serverless：优势、意义与应用 | GMTC](https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg)
+- [React View: An Interactive Playground to Show Off Your Components ](https://baseweb.design/blog/introducing-react-view/)
+
+
 ## 2019.12.09
 
 - [ ECMAScript 可选链接进入 Stage 4](https://www.reddit.com/r/javascript/comments/e65p22/optional_chaining_just_achieved_stage_4_at_tc39/)
