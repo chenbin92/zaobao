@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.12.12
+
+- [iceworks 4.0: 我们是如何做用研和产品规划的](https://www.atatech.org/articles/157725)
+- [Web 性能领域常见的专业术语](https://mp.weixin.qq.com/s/GIpmZIY6yxGRBpkTDHuJuw)
+- [React useEffect的陷阱](https://zhuanlan.zhihu.com/p/84697185)
+- [React SSR 详解](https://juejin.im/post/5def0816f265da33aa6aa7fe)
+- [你不知道的 JSON.stringify() 的威力](https://github.com/NieZhuZhu/Blog/issues/1)
+
+
 ## 2019-12-10
 
 - [What's New for Node.js in 2020](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)
