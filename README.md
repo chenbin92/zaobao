@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019-12-18
+
+- [第十四届D2前端技术论坛「创心」PPT](https://github.com/d2forum/14th)
+- [大前端2020年前瞻：有哪些你不能错过的技术趋势](https://mp.weixin.qq.com/s/wxGul8muHeFSiaRCKi-NHA)
+- [微软计划在 2020 年 1 月 15 日发布的 Edge 正式版将会支持 Tracking Prevention 功能，用来阻止第三方广告对用户的跟踪](https://www.zdnet.com/article/with-its-new-edge-browser-microsoft-takes-dead-aim-at-google/)
+- [Electron 宣布加入 OpenJS 基金会，该基金会目前由三十多个 JavaScript 开源项目组成，包括 jQuery、ESLint、Node.js 和 Webpack 等，并得到了包括微软、谷歌、IBM 和 Intel 等在内的 30 家公司的支持](https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/)
+- [前端工程化 - 剖析npm的包管理机制](https://juejin.im/post/5df789066fb9a0161f30580c)
+
+
 ## 2019.12.12
 
 - [iceworks 4.0: 我们是如何做用研和产品规划的](https://www.atatech.org/articles/157725)
