@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019-12-19
+
+- [OSCHINA 公布 2019 年度最受欢迎中国开源软件](https://www.oschina.net/question/2918182_2313492)
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+- [Webpack 深入浅出](https://juejin.im/post/5df884ad6fb9a0164e7f979d)
+- [fx 发布 16.0 版本，命令行 JSON 处理工具](https://github.com/antonmedv/fx)
+- [[译]2019年前端大事件回顾：流年笑掷，未来可期](https://juejin.im/post/5def782ce51d4558181d27ce)
+
 ## 2019-12-18
 
 - [第十四届D2前端技术论坛「创心」PPT](https://github.com/d2forum/14th)
