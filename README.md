@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.12.23
+
+- [飞冰（ICE）首次线下交流分享会精彩回顾（附 PPT](https://www.atatech.org/articles/158582)
+- [12 月 18 日，JavaScript 引擎 V8 发布 v8.0 版本](https://v8.dev/blog/v8-release-80)
+- [新版 Edge 插件商店面向开发者开放，支持现有插件迁移](https://blogs.windows.com/msedgedev/2019/12/16/get-started-extensions-addons-microsoft-edge-chromium/)
+- [国际化 React 应用程序：lightweight 优雅的轻量级（1.6kB）库](https://github.com/ibitcy/eo-locale)
+- [浏览器与前端性能灵魂之问](https://juejin.im/post/5df5bcea6fb9a016091def69)
+
+
 ## 2019-12-19
 
 - [OSCHINA 公布 2019 年度最受欢迎中国开源软件](https://www.oschina.net/question/2918182_2313492)
