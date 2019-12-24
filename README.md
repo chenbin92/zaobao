@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019.12.24
+
+- [[译] 回顾点评前端 2019 重大事件、趋势](https://www.infoq.cn/article/xd8DNvVZ28zBc846mqJE)
+- [2019年浏览器市场份额排行榜](https://segmentfault.com/a/1190000021380699)
+- [腾讯开源内部跨端框架 Hippy](https://github.com/Tencent/Hippy)
+- [基于浏览器的实时构建探索之路](https://mp.weixin.qq.com/s/Gl2Yc34cpdbFIRjL-qYwGg)
+- [Our Readers' Top Node Links of 2019](https://superhighway.dev/node-2019)
+
 ## 2019.12.23
 
 - [飞冰（ICE）首次线下交流分享会精彩回顾（附 PPT](https://www.atatech.org/articles/158582)
