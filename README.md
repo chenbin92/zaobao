@@ -1,5 +1,13 @@
 # zaobao
 
+## 2019-12-25
+
+- [Flutter 1.12 发布，迄今为止最大的更新](https://medium.com/flutter/announcing-flutter-1-12-what-a-year-22c256ba525d)
+- [Vue 作者于 Vue Toronto 2019 的演讲 《Design Principles of Vue 3.0》 公开了视频和演示文稿，分享了 Vue 3.0 设计过程中的取舍](https://vuetoronto.com/videos/design-principles-of-vue-3-evan-you/)
+- [网友根据 The State of JavaScript 2019 的数据，给出了关于 2019 年 JavaScript 现状的 7 个洞察](https://changelog.com/posts/7-insights-from-the-state-of-js-2019)
+- [string-similarity: 可以帮你检查两个字符串的相似性，轻松完成模糊匹配](https://github.com/aceakash/string-similarity)
+- [bowser: 一个简单、快速、好用的浏览器类型检测器，同时支持浏览器和 Node.js 端](https://github.com/lancedikson/bowser)
+
 ## 2019.12.24
 
 - [[译] 回顾点评前端 2019 重大事件、趋势](https://www.infoq.cn/article/xd8DNvVZ28zBc846mqJE)
