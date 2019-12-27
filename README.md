@@ -1,5 +1,13 @@
 # zaobao
 
+# 2019.12.27
+
+- [iOS 暗黑模式适配的完美解决方案](https://mp.weixin.qq.com/s?__biz=MzUxMzk2ODI1NQ==&mid=2247483925&idx=1&sn=90a668648fa9c57e8b6a2adac0556bb7)
+- [前端工程化下一站: IDE](https://developer.aliyun.com/article/740789)
+- [React Native 在美团外卖客户端的实践](https://www.infoq.cn/article/p4ymlTOZ5EBkSvt7Tg5a)
+- [一个基于 React 的浏览器窗格框架，可以让网页显示多窗格的效果](https://github.com/nomcopter/react-mosaic)
+- [Build your own React](https://pomb.us/build-your-own-react/)
+
 ## 2019-12-25
 
 - [Flutter 1.12 发布，迄今为止最大的更新](https://medium.com/flutter/announcing-flutter-1-12-what-a-year-22c256ba525d)
