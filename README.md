@@ -1,5 +1,14 @@
 # zaobao
 
+## 2019.12.30
+
+- [2019 年 Serverless 使用调查](https://www.oreilly.com/radar/oreilly-serverless-survey-2019-concerns-what-works-and-what-to-expect/)
+- [360 加入 Ecma 参与 JavaScript 语言标准制定](https://github.com/75team/tc39)
+- [Firefox 73 将引入全局缩放功能，可应用于所有网站](https://www.ghacks.net/2019/12/26/firefox-73-gets-an-ui-option-to-set-a-global-zoom-level/)
+- [ 为什么学习 ReactJs 在 2020 年有意义](https://codersera.com/blog/why-learning-reactjs-makes-sense-in-2020/)
+- [Vue CLI 4 发布：自动化升级过程，支持自定义包管理器](https://www.infoq.cn/article/N6ELkZBT8PE1md1sx6kX)
+
+
 # 2019.12.27
 
 - [iOS 暗黑模式适配的完美解决方案](https://mp.weixin.qq.com/s?__biz=MzUxMzk2ODI1NQ==&mid=2247483925&idx=1&sn=90a668648fa9c57e8b6a2adac0556bb7)
