@@ -1,5 +1,13 @@
 # zaobao
 
+## 2020.01.02
+
+- [JavaScript Trends in 2020](https://medium.com/m/global-identity?redirectUrl](https%3A%2F%2Fcodeburst.io%2Fjavascript-trends-in-2020-b194bebc5ef8)
+- [ES2020 新功能预览](https://2ality.com/2019/12/ecmascript-2020.html)
+- [从 React 历史的长河里聊虚拟DOM及其价值](https://mp.weixin.qq.com/s/ONVuXXiHl8aPG-Gnrq-yhw)
+- [云开发：未来的软件开发方式](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652977219&idx=1&sn=6dba1b1249894d063476da0702750204)
+- [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
+
 ## 2019.12.30
 
 - [2019 年 Serverless 使用调查](https://www.oreilly.com/radar/oreilly-serverless-survey-2019-concerns-what-works-and-what-to-expect/)
