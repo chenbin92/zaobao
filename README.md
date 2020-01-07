@@ -1,5 +1,14 @@
 # zaobao
 
+## 2020-01-07
+
+- [webpack 源码修改的 N 种姿势](https://zhuanlan.zhihu.com/p/100424704)
+- [小程序跨框架开发的探索与实践](https://aotu.io/notes/2020/01/02/gmtc/index.html)
+- [Chrome 将支持错误代码，类似于 Windows BSOD 屏幕](https://www.zdnet.com/article/chrome-to-show-error-codes-similar-to-windows-bsod-screens/)
+- [Web 组件及其在 Vue 和 Vuex 中的交互方式](https://hackernoon.com/components-and-how-they-interact-in-vue-and-vuex-35s32q8)
+- [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
+
+
 ## 2020.01.02
 
 - [JavaScript Trends in 2020](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fcodeburst.io%2Fjavascript-trends-in-2020-b194bebc5ef8)
