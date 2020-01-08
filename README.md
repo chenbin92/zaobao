@@ -1,5 +1,13 @@
 # zaobao
 
+## 2020-01-08
+
+- [2019 前端技术发展回顾](https://zhuanlan.zhihu.com/p/101517039)
+- [Video Developer Report - Top Trends in Video Technology 2019](https://frontendmasters.com/learn/react/)
+- [基于 Serverless Component 的全栈解决方案](https://zhuanlan.zhihu.com/p/97027497)
+- [微前端方案 icestark 的现在与未来](https://zhuanlan.zhihu.com/p/101164985)
+- [icestore 是如何实现良好的 TypeScript 类型检查和推断的？](https://zhuanlan.zhihu.com/p/100411963)
+
 ## 2020-01-07
 
 - [webpack 源码修改的 N 种姿势](https://zhuanlan.zhihu.com/p/100424704)
