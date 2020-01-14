@@ -1,5 +1,14 @@
 # zaobao
 
+## 2020-01-14
+
+- [Chrome 将以更“安静”的方式替代通知弹窗](https://blog.chromium.org/2020/01/introducing-quieter-permission-ui-for.html)
+- [Firefox 72 正式发布](https://www.mozilla.org/en-US/firefox/72.0/releasenotes/)
+- [腾讯开源云服务器操作系统 Tencent Linux](https://www.oschina.net/news/112683/tencent-linux-opensource)
+- [字节跳动Flutter架构实践](https://mp.weixin.qq.com/s/7Ap-9MyhkveqGPRsRZWvyw)
+- [只有 9.27% 的 npm 开发者使用 2FA](https://mp.weixin.qq.com/s/mtxqJengQcx5ryVNxhu06g)
+
+
 ## 2020-01-08
 
 - [2019 前端技术发展回顾](https://zhuanlan.zhihu.com/p/101517039)
