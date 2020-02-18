@@ -1,5 +1,14 @@
 # zaobao
 
+## 2020-02-18
+
+- [Chrome 80 稳定版发布：cookie 策略调整、静默通知机制和进一步强化 HTTPS 的普及](https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html)
+- [Taro Next 发布预览版：同时支持 React / Vue / Nerv](https://juejin.im/post/5e4487b3e51d4527214ba6b1)
+- [React Hooks 究竟有多慢](https://juejin.im/post/5e3ac653e51d45270b7d4e3d)
+- [阿里跨境供应链前端架构演进与 Serverless 实践](https://mp.weixin.qq.com/s/R0XJHSYyRLl1wGsJUfCL-A)
+- [2020年需要重点学习的JavaScript框架和主题，以及下一个十年的技术展望](https://mp.weixin.qq.com/s/L93Q-MHJxUlu5d3WGCWtPQ)
+
+
 ## 2020-01-14
 
 - [Chrome 将以更“安静”的方式替代通知弹窗](https://blog.chromium.org/2020/01/introducing-quieter-permission-ui-for.html)
