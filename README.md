@@ -1,5 +1,15 @@
 # zaobao
 
+## 2020.02.19
+
+- [全球开发者调查报告出炉：IT 人最想学习 Go 和 Python](https://research.hackerrank.com/developer-skills/2020)
+- [react-router 发布 v6.0.0-alpha.0 版本，可以开始尝鲜体验下](https://github.com/ReactTraining/react-router/releases)
+- [What is CSS4?](https://www.quirksmode.org/blog/archives/2020/02/what_is_css4.html)
+- [React Hooks的体系设计之一 - 分层](https://zhuanlan.zhihu.com/p/106665408)
+- [让爱你的人深爱你，恨你的人远离你，这样你就能赢了](https://mp.weixin.qq.com/s/SlR9Gbkv0ALaceDXJVu1LQ)
+
+
+
 ## 2020-02-18
 
 - [Chrome 80 稳定版发布：cookie 策略调整、静默通知机制和进一步强化 HTTPS 的普及](https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html)
