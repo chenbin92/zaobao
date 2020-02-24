@@ -1,5 +1,14 @@
 # zaobao
 
+## 2020.02.24
+
+- [What's Coming in ESLint 7.0](https://eslint.org/blog/2020/02/whats-coming-in-eslint-7.0.0)
+- [icestore 发布 1.0.0 版本](https://github.com/ice-lab/icestore/releases)
+- [2020 前端开源领域技术展望](https://mp.weixin.qq.com/s/yMg3kpmDaUL-p8iuhbo86Q)
+- [前端 DSL 实践指南（上](https://zhuanlan.zhihu.com/p/107947462)
+- [为什么要对 SaaS 产品使用 ReactJS](https://mp.weixin.qq.com/s/UzIN3nm0QvZWfCeZtSg0lA)
+
+
 ## 2020.02.19
 
 - [全球开发者调查报告出炉：IT 人最想学习 Go 和 Python](https://research.hackerrank.com/developer-skills/2020)
